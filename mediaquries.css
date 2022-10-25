@@ -1,0 +1,101 @@
+@media only screen and(min-device-width: 320px)and(max-device-width: 620px){
+    .navbar-brand{
+        font-size:100px;
+        text-decoration:none;
+        color:green;
+    }
+    .navbar-menu li a{
+        display:inline-block;
+        color:black;
+        opacity:0.6;
+        text-decoration:none;
+        padding:5%;
+        transition:all 07s easy-in-out;
+        width:110%;
+    }
+    .topcard-2 img {
+        width: 110px;
+        position: relative;
+        left: 7em;
+        text-align: left;
+        bottom: -1em;
+    }
+    .bottom-card-2 {
+        color: white;
+        font-size: 19px;
+        color: white;
+        font-family: "Roboto Condensed", sans-serif;
+        margin: 5px 0 7px;
+        line-height: 22px;
+        position: relative;
+        left: 5em;
+        bottom: 0em;
+        box-shadow: 0 4px 10px rgb(0 0 0 / 10%);
+        text-align: center;
+    }
+    .topcard-3 img {
+        width: 110px;
+        position: relative;
+        left: -14em;
+        text-align: left;
+        bottom: -26em;
+    }
+    .bottom-card-3 {
+        color: white;
+        font-size: 19px;
+        color: white;
+        font-family: "Roboto Condensed", sans-serif;
+        margin: 5px 0 7px;
+        line-height: 22px;
+        position: relative;
+        left: -11em;
+        bottom: -20.5em;
+        box-shadow: 0 4px 10px rgb(0 0 0 / 10%);
+        text-align: center;
+    }
+    .bottom-card-4 {
+        color: white;
+        font-size: 19px;
+        color: white;
+        font-family: "Roboto Condensed", sans-serif;
+        margin: 5px 0 7px;
+        line-height: 22px;
+        position: relative;
+        left: -8em;
+        bottom: -19em;
+        box-shadow: 0 4px 10px rgb(0 0 0 / 10%);
+        text-align: center;
+    }.bottom-card-4 {
+        color: white;
+        font-size: 19px;
+        color: white;
+        font-family: "Roboto Condensed", sans-serif;
+        margin: 5px 0 7px;
+        line-height: 22px;
+        position: relative;
+        left: -8em;
+        bottom: -19em;
+        box-shadow: 0 4px 10px rgb(0 0 0 / 10%);
+        text-align: center;
+    }
+    .bottom-card-4 {
+        color: white;
+        font-size: 19px;
+        color: white;
+        font-family: "Roboto Condensed", sans-serif;
+        margin: 5px 0 7px;
+        line-height: 22px;
+        position: relative;
+        left: -8em;
+        bottom: -19em;
+        box-shadow: 0 4px 10px rgb(0 0 0 / 10%);
+        text-align: center;
+    }
+    .topcard-4 img {
+        width: 110px;
+        position: relative;
+        left: -9em;
+        text-align: left;
+        bottom: -24em;
+    }
+    }
